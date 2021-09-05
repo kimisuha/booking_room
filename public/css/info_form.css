@@ -1,0 +1,16 @@
+* {
+  text-transform: capitalize;
+}
+* .info_form {
+  width: auto;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  margin-top: 10vh;
+}
+* .info_form button {
+  height: auto;
+  margin-left: 47%;
+  margin-top: 0.5rem;
+}/*# sourceMappingURL=info_form.css.map */

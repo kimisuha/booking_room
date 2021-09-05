@@ -1,0 +1,31 @@
+* {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+* .attention {
+  width: 25rem;
+  margin-top: 14vh;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  position: relative;
+}
+
+* .attention .title {
+  border-bottom: 1px solid black;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+  background-color: #4169E1;
+  color: white;
+}
+
+* .attention ul {
+  margin-top: 0.1rem;
+}
+
+* .attention ul li {
+  list-style: none;
+  text-align: start;
+}
+
+/*# sourceMappingURL=success-attention.css.map */

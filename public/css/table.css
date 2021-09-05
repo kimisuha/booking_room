@@ -1,0 +1,16 @@
+
+.card .tb-user{
+    width: 95%;
+    text-align: center;
+    text-transform: capitalize;
+    z-index: auto;
+    margin: 0.5rem
+}
+
+.card .tb-room{
+    width: 95%;
+    text-align: center;
+    text-transform: capitalize;
+    z-index: auto;
+    margin: 0.5rem;
+}
